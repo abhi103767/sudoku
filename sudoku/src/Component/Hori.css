@@ -1,0 +1,13 @@
+.Hori-- {
+  display: flex;
+}
+.box {
+  box-sizing: border-box;
+  contenteditable: "true";
+  text-align: center;
+  width: 30px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border: 1px solid gray;
+}
